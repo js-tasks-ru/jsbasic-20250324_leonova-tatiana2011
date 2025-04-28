@@ -109,7 +109,4 @@
   .ribbon__arrow.ribbon__arrow_visible {
     display: none;
   }
-  .ribbon__arrow_visible {
-  display: flex; /* или inline-flex */
-}
 }
